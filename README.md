@@ -12,5 +12,8 @@ Sto attualmente lavorando su altre tracce che ho svolto per commentarle meglio e
 
 
 ## To non-italian readers
-I apologize if you can't probably understand what is wrote above this section, but this repo is about an exam of an italian university so it's main target are italian-speaking students who studies there. Comments inside the code will be therefore wrote in italian too.
+I apologize if you can't probably understand what is wrote above this section, but this repo is about an exam of an italian university so it's main target are italian-speaking students who study there. Comments inside the code will be therefore wrote in italian too.
 I hope you will find something interesting out of that anyway! 
+
+
+
