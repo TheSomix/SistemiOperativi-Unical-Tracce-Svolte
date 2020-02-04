@@ -4,7 +4,7 @@ Una raccolta di tracce dell'esame scritto di Sistemi Operativi, svolte e comment
 
 
 ## DISCLAIMER 
-Ogni traccia caricata è stata testata personalmente, ma non posso assicurare al 100% che siano perfettamente corrette, per cui invito chiunque a segnalare errori sia nel codice che nei commenti.
+Ogni traccia caricata è stata testata personalmente, ma non posso assicurare che siano perfettamente corrette, per cui invito chiunque a segnalare errori sia nel codice che nei commenti.
 
 
 ## E le altre Tracce? 
